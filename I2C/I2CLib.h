@@ -20,7 +20,7 @@
 #include <sys/ioctl.h>
 #include <unistd.h>
 #include <linux/i2c-dev.h>
-#include "../../MyLib/Types/MyDataTypes.h"
+#include "MyDataTypes.h"
 
 
 #ifdef __cplusplus
